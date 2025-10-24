@@ -1,0 +1,23 @@
+  =>  Template Name    : Acuas - Drinking Water Website Template
+
+  =>  Template Link    : https://htmlcodex.com/drinking-water-website-template
+
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : HTML Codex
+
+  =>  Author Website   : https://htmlcodex.com
+
+  - blue to red
+  - hero main img size decrease
+  - logo added in nav
+  - remove read btn in second section
+  - 5 year to 25 year experiance in third and forth section
+
+- nav text under logo
+- change logo without bg
+- phone and mail btn in nav
+- change main hero slide with client docs
+add project and products in home and also seprate pages
+change footer color
+add +91 to phone no
