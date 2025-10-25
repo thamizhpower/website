@@ -860,7 +860,8 @@
 
 /*** Footer Start ***/
 .footer {
-    background: var(--bs-dark);
+    background: white;
+    color: red !important;
 }
 
 .footer .footer-item a {
