@@ -936,3 +936,13 @@
     }
     
 }
+
+.service_list{
+    list-style-type: disc;
+    padding-left: 20px;
+    list-style: none;
+}
+
+.service_list li{
+    margin-bottom: 10px;
+}
