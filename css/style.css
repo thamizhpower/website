@@ -511,7 +511,7 @@
     position: absolute;
     top: 0;
     left: 0;
-    padding: 25px;
+    padding: 15px;
     font-size: 30px;
     font-weight: bold;
     background: var(--bs-secondary);
